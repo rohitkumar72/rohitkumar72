@@ -35,7 +35,6 @@
 
 
 
-![Rohit Kumar's Streak] (https://github-readme-streak-stats.herokuapp.com/?user=Rohit Kumar&theme=dark&hide_border=false)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rohit Kumar?cardType=github&preferLogin=true&Border=627AFF)](https://git.io/awesome-stats-card)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rohit Kumar?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Rohit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkrkumar&show_icons=true&theme=dark)](https://github.com/rohitkumar72)
+
 <br>
