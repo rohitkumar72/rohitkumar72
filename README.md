@@ -35,6 +35,6 @@
 
 
 
-[![Rohit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkrkumar&show_icons=true&theme=dark)](https://github.com/rohitkrkumar)
+[![Rohit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkrkumar&show_icons=true&theme=dark)](https://github.com/rohitkumar72)
 
 <br>
