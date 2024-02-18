@@ -35,6 +35,8 @@
 
 
 
-[![Rohit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkrkumar&show_icons=true&theme=dark)](https://github.com/rohitkumar72)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
