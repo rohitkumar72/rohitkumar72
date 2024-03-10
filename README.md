@@ -11,7 +11,7 @@
 - ✔  My Digital Protfolio :  https://leetcode.com/rohitkumar9/
 - 💻 My Leetcode Profile : https://leetcode.com/rohitkumar9/
 - 💻 My GeeksforGeeks Profile : https://leetcode.com/rohitkumar9/
-- 💻 My Codeforces Profile : https://leetcode.com/rohitkumar9/
+- 💻 My CodeChef Profile : https://www.codechef.com/users/rohit_2030
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/rohitkumar71/
 
 💻 *Languages and Tools:* 🛠️<br>
