@@ -1,42 +1,81 @@
+<h1 align="center" style="color:#faebee">
+  <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
+</h1>
 
-<h1 align="center">Hi 🙂, I'm Rohit Kumar</h1>
-<h3 align="center">Final Year UG Student @ RGPV Bhopal</h3>
+<div align="center">
+  <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-ANSHUMAN-333d7a?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-NANDAN-faebee?&style=for-the-badge&logoWidth=50" />
 
-<h4 align="center"> Having knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices.</h4>
+  <br>
 
+  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Anshuman+Nandan+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;Open%20Source%20Enthusiast;" alt="Headline" />
 
+  <a href="https://www.linkedin.com/in/anshumannandan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/anshumannandann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.discordapp.com/users/anshumannandan"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="anshumannandan2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
-📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<br>
-- ✔  My Digital Protfolio :  https://leetcode.com/rohitkumar9/
-- 💻 My Leetcode Profile : https://leetcode.com/rohitkumar9/
-- 💻 My GeeksforGeeks Profile : https://leetcode.com/rohitkumar9/
-- 💻 My CodeChef Profile : https://www.codechef.com/users/rohit_2030
-- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/rohitkumar71/
+py
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
 
-💻 *Languages and Tools:* 🛠️<br>
+class Developer:
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+    def __init__(self):
+    self.name = "Anshuman Nandan 😄"
+    self.role = "Backend Developer 💻"
+    self.love = "Python 🐍"
+    self.location = "Somewhere on Earth 🌍"
 
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
-
-## 🏆 Github Stats
-
-
+me = Developer()
+me.say_hi()
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar&show_icons=true&theme=radical)
+<h1 align="center">
+  <img height="40px" src="https://img.shields.io/badge/-My Tech Stack-faebee?&style=for-the-badge&logoWidth=50" />
+</h1>
+<div align="center">
+        
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-Languages-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<br>
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-Backend Frameworks-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
+
+![image](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![image](https://img.shields.io/badge/Flask-%2378c7d1.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-Database-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
+
+![image](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![image](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-CI/CD and Cloud Services-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
+
+![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![image](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+
+<img align="center" width="800px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
