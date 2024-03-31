@@ -12,8 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+ROHIT+KUMAR+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;Open%20Source%20Enthusiast;" alt="Headline" />
 
   <a href="https://www.linkedin.com/in/rohitkumar71/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/anshumannandann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.discordapp.com/users/anshumannandan"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://twitter.com/rohit3006k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="rohit3006k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
